@@ -1,5 +1,3 @@
-Here is the same README with emojis, still professional:
-
 ````markdown
 # 🏎️ Apex Redline Racing
 
@@ -44,14 +42,12 @@ The goal of this project is to demonstrate modern front-end development practice
 
 ## 🌐 Live Demo
 
-**https://your-demo-link.com**
+**https://localbtstudio-tech.github.io/APEXREDLINE/**
 
 ## 👨‍💻 Author
 
 **Hamza Weslati**  
 Founder of **LocalBoost Studio**
-
-Portfolio: https://localbtstudio-tech.github.io/Portfolio/
 
 ---
 
