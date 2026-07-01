@@ -42,7 +42,7 @@ The goal of this project is to demonstrate modern front-end development practice
 
 ## 🌐 Live Demo
 
-** https://localbtstudio-tech.github.io/APEXREDLINE/ **
+**https://localbtstudio-tech.github.io/APEXREDLINE/**
 
 ## 👨‍💻 Author
 
